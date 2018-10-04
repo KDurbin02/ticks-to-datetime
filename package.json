@@ -10,13 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/KDurbin02/ticks-to-datetime.git"
   },
-  "author": "",
+  "author": "kyla",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KDurbin02/ticks-to-datetime/issues"
   },
   "homepage": "https://github.com/KDurbin02/ticks-to-datetime#readme",
   "dependencies": {
-    "npm": "^6.4.1"
+    "typescript": "^3.1.1",
+    "yarn": "^1.10.1"
   }
 }
